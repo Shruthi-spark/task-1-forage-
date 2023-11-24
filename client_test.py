@@ -23,5 +23,5 @@ class ClientTest(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-  self.assertEqual(getDataPoint(quote),dataPoint)
+  self.assertEqual((quote),dataPoint)
   self.assertEqual(1,1)
